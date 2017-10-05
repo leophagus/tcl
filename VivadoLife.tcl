@@ -21,7 +21,7 @@
 #----------------------------------------------------------------------------
 # comment this out if device is loaded already
 # TODO check design status and dont link if already in a project
-#link_design -part xc7k70tfbv676-1
+link_design -part xc7k70tfbv676-1
 
 # TODO make this automatically fill the device
 set X 60
