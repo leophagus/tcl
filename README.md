@@ -20,6 +20,8 @@ For best visuals,
 
 ![Screenshot](../master/docs/VivadoLife_Large1.png)
 
+![Screengrab](../master/docs/2018-11-05-2132-15.m4v)
+
 Relatively low load. On my old i3 laptop, barely tops 20%. Theres room
 for more optimization.
 
