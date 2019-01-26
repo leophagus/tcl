@@ -16,7 +16,8 @@ if you dont intend to buy an FPGA).
 For best visuals,
 1. Turn off Routing view
 2. In the Device-Options menu, disable Tiles, Sites, Bels.
-3. Minimize Tcl console. 
+3. Minimize Tcl console.
+4. source VivadoLife.tcl
 
 ![Screenshot](../master/docs/VivadoLife_Large1.png)
 
